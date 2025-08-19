@@ -3,7 +3,7 @@ This project involves analyzing and forecasting sales data using a real-world da
 
 ---
 
-## 🔍 Dataset Overview
+##Dataset Overview
 
 - **Source**: Internal ERP system
 - **Total Rows**: 6,114,141
@@ -16,7 +16,7 @@ This project involves analyzing and forecasting sales data using a real-world da
 
 ---
 
-## 🧼 Data Preprocessing
+##Data Preprocessing
 
 - Removed null values
 - Filtered for years **2016 to 2021**
@@ -27,7 +27,7 @@ This project involves analyzing and forecasting sales data using a real-world da
 
 ---
 
-## 📊 Exploratory Analysis
+##Exploratory Analysis
 
 - Analyzed trends in quantity sold, price, cost, and total revenue
 - Observed:
@@ -36,7 +36,7 @@ This project involves analyzing and forecasting sales data using a real-world da
 
 ---
 
-## 📈 Forecasting with ARIMA
+##Forecasting with ARIMA
 
 - Converted to time series: monthly sales
 - Verified stationarity using ADF test
@@ -46,7 +46,7 @@ This project involves analyzing and forecasting sales data using a real-world da
 
 ---
 
-## 🤖 Machine Learning Models Compared
+##Machine Learning Models Compared
 
 | Model               | Forecast for 2021 (EUR)  |
 |--------------------|--------------------------|
@@ -59,7 +59,7 @@ This project involves analyzing and forecasting sales data using a real-world da
 
 ---
 
-## 🔮 Future Forecast (Decision Tree)
+##Future Forecast (Decision Tree)
 
 | Year | Predicted Sales (EUR) |
 |------|------------------------|
@@ -67,5 +67,3 @@ This project involves analyzing and forecasting sales data using a real-world da
 | 2025 | 44.95M                 |
 
 ---
-
-## 📂 Repository Structure
